@@ -16,5 +16,5 @@
 
 
 ### List of sample codes:
-* PsSetCreateProcessNotifyRoutineEx
-* PsSetCreateProcessNotifyRoutineEx2
+* [MyPsSetCreateProcessNotifyRoutineEx](https://github.com/7eRoM/sample_drivers_code/blob/master/MyPsSetCreateProcessNotifyRoutineEx.c): PsSetCreateProcessNotifyRoutineEx
+* [MyPsSetCreateProcessNotifyRoutineEx2](https://github.com/7eRoM/sample_drivers_code/blob/master/MyPsSetCreateProcessNotifyRoutineEx2.c): PsSetCreateProcessNotifyRoutineEx2
